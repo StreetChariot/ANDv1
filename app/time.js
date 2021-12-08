@@ -3,7 +3,7 @@ import * as util from "../common/utils";
 import { preferences } from "user-settings";
 
 export let root = document.getElementById('root')
-export const screenHeight = root.height //250 - Ionic, 300 - Versa
+export const screenHeight = root.height //250 - Charge, 300 - Versa
 export const screenWidth = root.width
 
 export let timeEl = document.getElementById("time");

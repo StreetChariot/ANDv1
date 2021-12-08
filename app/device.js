@@ -2,7 +2,7 @@ import document from "document";
 
 export function deviceSetup() {
   let root = document.getElementById('root');
-  const screenHeight = root.height //250 - Ionic, 300 - Versa
+  const screenHeight = root.height //250 - Charge, 300 - Versa
   const screenWidth = root.width
   if (screenHeight === 300) {
     console.log("Versa");
@@ -21,7 +21,7 @@ export function deviceSetup() {
     baromIcon.x = 5
     baromIcon.y = 250
   } else { 
-    console.log("ionic");
+    console.log("Charge");
     
     var baromZone = document.getElementById('barom-zone');
     var baromIcon = document.getElementById('barom-icon');

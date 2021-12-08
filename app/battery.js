@@ -6,7 +6,7 @@ export let batteryLine = document.getElementById("battery-line");
 //Battery - END
 
 export let root = document.getElementById('root')
-export const screenHeight = root.height //250 - Ionic, 300 - Versa
+export const screenHeight = root.height //250 - Charge, 300 - Versa
 export const screenWidth = root.width
 
 
