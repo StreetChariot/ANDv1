@@ -1,10 +1,10 @@
 `Github` repo is a mirror of `Gitlab` repo
 
-# AND v1
+# AND v1 for Sense
 
-`Fitbit` clockface for `Charge` and `versa`
-(https://gam.fitbit.com/gallery/clock/cf3cd90a-aac5-4dd4-8125-bad2b229cc57)
+`Fitbit` clockface for 'Sense'
 
+*****Forked from ahsandar/ANDv1********
 
 0.0.1-rc-0.0.10
 Minimal mode added
@@ -29,39 +29,5 @@ Time is 12/24hrs with seconds.
 
 Barometer reading from the sensor added for display in kPa
 
-The clock face is a customised version built on the work available from `anha1` on Github for Acid Clock Face (https://github.com/anha1/fitbit-acidclock).
+The clock face is a customised version built on the work available from `anha1` on Github for Acid Clock Face (https://github.com/anha1/fitbit-acidclock) and `ahsandar` on on Github for ANDv1 (https://github.com/ahsandar/ANDv1).
 
-# Screenshots
-
-## Charge
-<br/>
-
-![Charge](screenshot/Charge/Charge_1.jpg)<br/>
-![Charge](screenshot/Charge/Charge_2.jpg)<br/>
-![Charge](screenshot/Charge/Charge_3.jpg)<br/>
-![Charge](screenshot/Charge/Charge_4.jpg)<br/>
-![Charge](screenshot/Charge/Charge_5.jpg)<br/>
-![Charge](screenshot/Charge/Charge_6.jpg)<br/>
-![Charge](screenshot/Charge/Charge_7.jpg)<br/>
-![Charge](screenshot/Charge/Charge_8.jpg)<br/>
-![Charge](screenshot/Charge/Charge_9.jpg)<br/>
-![Charge](screenshot/Charge/Charge_10.jpg)<br/>
-![Charge](screenshot/Charge/Charge_11.jpg)<br/>
-![Charge](screenshot/Charge/Charge_12.jpg)<br/>
-
-
-## versa
-<br/>
-
-![versa](screenshot/versa/versa_1.jpg)<br/>
-![versa](screenshot/versa/versa_2.jpg)<br/>
-![versa](screenshot/versa/versa_3.jpg)<br/>
-![versa](screenshot/versa/versa_4.jpg)<br/>
-![versa](screenshot/versa/versa_5.jpg)<br/>
-![versa](screenshot/versa/versa_6.jpg)<br/>
-![versa](screenshot/versa/versa_7.jpg)<br/>
-![versa](screenshot/versa/versa_8.jpg)<br/>
-![versa](screenshot/versa/versa_9.jpg)<br/>
-![versa](screenshot/versa/versa_10.jpg)<br/>
-![versa](screenshot/versa/versa_11.jpg)<br/>
-![versa](screenshot/versa/versa_12.jpg)<br/>
