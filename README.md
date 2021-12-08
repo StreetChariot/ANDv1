@@ -2,7 +2,7 @@
 
 # AND v1
 
-`Fitbit` clockface for `ionic` and `versa`
+`Fitbit` clockface for `Charge` and `versa`
 (https://gam.fitbit.com/gallery/clock/cf3cd90a-aac5-4dd4-8125-bad2b229cc57)
 
 
@@ -33,21 +33,21 @@ The clock face is a customised version built on the work available from `anha1` 
 
 # Screenshots
 
-## ionic
+## Charge
 <br/>
 
-![ionic](screenshot/ionic/ionic_1.jpg)<br/>
-![ionic](screenshot/ionic/ionic_2.jpg)<br/>
-![ionic](screenshot/ionic/ionic_3.jpg)<br/>
-![ionic](screenshot/ionic/ionic_4.jpg)<br/>
-![ionic](screenshot/ionic/ionic_5.jpg)<br/>
-![ionic](screenshot/ionic/ionic_6.jpg)<br/>
-![ionic](screenshot/ionic/ionic_7.jpg)<br/>
-![ionic](screenshot/ionic/ionic_8.jpg)<br/>
-![ionic](screenshot/ionic/ionic_9.jpg)<br/>
-![ionic](screenshot/ionic/ionic_10.jpg)<br/>
-![ionic](screenshot/ionic/ionic_11.jpg)<br/>
-![ionic](screenshot/ionic/ionic_12.jpg)<br/>
+![Charge](screenshot/Charge/Charge_1.jpg)<br/>
+![Charge](screenshot/Charge/Charge_2.jpg)<br/>
+![Charge](screenshot/Charge/Charge_3.jpg)<br/>
+![Charge](screenshot/Charge/Charge_4.jpg)<br/>
+![Charge](screenshot/Charge/Charge_5.jpg)<br/>
+![Charge](screenshot/Charge/Charge_6.jpg)<br/>
+![Charge](screenshot/Charge/Charge_7.jpg)<br/>
+![Charge](screenshot/Charge/Charge_8.jpg)<br/>
+![Charge](screenshot/Charge/Charge_9.jpg)<br/>
+![Charge](screenshot/Charge/Charge_10.jpg)<br/>
+![Charge](screenshot/Charge/Charge_11.jpg)<br/>
+![Charge](screenshot/Charge/Charge_12.jpg)<br/>
 
 
 ## versa

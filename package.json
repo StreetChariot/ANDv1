@@ -1,8 +1,11 @@
 {
+  "devDependencies": {
+    "@fitbit/sdk": "6.0"
+  },
   "fitbit": {
-    "appUUID": "cf3cd90a-aac5-4dd4-8125-bad2b229cc57",
+    "appUUID": "cf3cd90a-aac5-4da3-8125-bad2b229cc57",
     "appType": "clockface",
-    "appDisplayName": "AND v1",
+    "appDisplayName": "AND v1 for Sense",
     "iconFile": "resources/icon.png",
     "wipeColor": "#009688",
     "requestedPermissions": [
@@ -14,16 +17,13 @@
       "access_internet"
     ],
     "buildTargets": [
-      "higgs",
-      "meson"
+      "vulcan"
     ],
     "i18n": {
-      "en": {
-        "name": "AND v1"
+      "en-US": {
+        "name": "AND v1 for Sense"
       }
-    }
-  },
-  "devDependencies": {
-    "@fitbit/sdk": "~1.0.0"
+    },
+    "defaultLanguage": "en-US"
   }
 }
